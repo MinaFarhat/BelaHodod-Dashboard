@@ -24,22 +24,31 @@ Built once with Flutter, deployed everywhere.
 
 ## ✨ Features
 
-- User, order, and product management
-- Offer and points management
-- Payment tracking and dashboard analytics
-- Clean and modern UI
-- Responsive design across all devices
-- Scalable and maintainable codebase
+- User, order, and product management  
+- Offer and points management  
+- Payment tracking and dashboard analytics  
+- Clean and modern UI  
+- Responsive design across all devices  
+- Scalable and maintainable codebase  
 
 ## 🛠️ Built With
 
 - Flutter  
-- Dart
+- Dart  
 
-## 🧩 Getting Started
+## ⚙️ Getting Started
 
-To run the project locally:
+This project is built with Flutter and demonstrates a multi-platform admin dashboard.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/MinaFarhat/BelaHodod-Dashboard.git
+### Prerequisites
+- Flutter SDK installed  
+- An IDE like **VS Code** or **Android Studio**  
+
+### Installation
+
+1. Clone the repository and navigate into the project directory, then install dependencies and run the project:
+```bash
+git clone https://github.com/MenaFarhat/BelaHodod-Dashboard.git
+cd BelaHodod-Dashboard
+flutter pub get
+flutter run
